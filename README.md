@@ -8,4 +8,4 @@ Usage:
 3. Dowload WHITE icons from https://design.google.com/icons/
 4. Extract icons from .zip
 5. In Bash, go to folder there you dowloaded icons
-6. Run script by passing two arguments: unziped folder with icons and new color ( Dmitrys-MacBook-Pro-2:'folder_with_dowloaded_icons' oknesif$ 'folder_with_script'/script.sh ic_accessibility_white_24dp 0xFF0000 )
+6. Run script by passing two arguments: folder which contain drawable subfolders and color in 0xFFFFFF format.
